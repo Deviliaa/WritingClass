@@ -24,6 +24,34 @@
 
 惩罚（上课玩手机、交头结耳、传播负能量等）
 
-## 4. 课程记录
+## 4. 分组信息
+
+ 序号 | 组长 |  成员  | 团队博客地址 
+-|-|-|-
+1|刘建秀|高占祺 王金磊 陈鑫海 唐晓涵 刚申辉 宋德豪 仪同|https://www.cnblogs.com/liujianxiu/
+2|王啟杰|范振坤 巩坤 孙婧斐 宋志强 王沛成 张新鹏 周士童|https://www.cnblogs.com/WeOUC/
+3|李美|高飞 张海娟 刘晓燕 孙勤飞 王有成 万伟|https://www.cnblogs.com/we-oucer/
+4|杜超凡|张瑞 陈鹏 沈世莹 岳成艳 张红 张东晓 曹颖 罗浩宇|https://www.cnblogs.com/fourthteam/
+5|王美栋|顾正玺 高超 宋平 司希住 田鲁嘉 朱福建 孙天颖|https://www.cnblogs.com/4z5d/
+6|赵政达|高琰、赵政达、曲晓帆、王会金、闫静静、王宏斌、韩家正、朱志浩、林婷婷、李旭|https://www.cnblogs.com/oucZhaoSir
+7|饶源|臧文川、杨健、王展梁、王晓瑞、李明洋、马俊杰、马良志、张嘉铭|https://www.cnblogs.com/oucvisionlab/
+8|任鹏飞|陈洪伟、任鹏飞、丁来辉、王晓慧、吴晓涵、姚凤芹、刘文霞|https://www.cnblogs.com/oucrpf/
+9|潘旻琦|郭念帆 李元飞 王成贺 赵紫安 张天择 刘杰 周忠贤 王健 杨炎法|https://www.cnblogs.com/NeroClaudius/
+10|李嘉鑫|杨仕倢 房凯昌 赵硕 王伟刚 王鹏皓 姜思宁 崔子元|https://www.cnblogs.com/jinlizu/
+11|张利民|姜雪娜 贾晨鑫 代少杰 庞燕冉 李晨 姬晓飞 杜鹏婷 窦馨|https://www.cnblogs.com/ouczhanglm/
+12|许海静|陈婉莹 刘一贝 王加琦 王淑敏 许海静 许嘤枝 袁洁|https://www.cnblogs.com/grouptwelve/
+13|袁野|王美菊 陈逸凡 李珂 安雅菁 张福昌 牛召阳 窦东东 李飞帆 郭昊|https://www.cnblogs.com/FlyManto/
+14|崔书彬|陈吉 高运乐 李文博 胡昆 信晓伟 胡若彤 刘克涛 慕文杰|https://www.cnblogs.com/c523/
+15|毕莲德|房静茹 卢锡蓉 姜宁 孔令辉 陈倩民|https://www.cnblogs.com/oucgroup/
+16|王子豪|郑颖欣 薛俊龙 鞠京霖 王哲 李晓梅 宋超凡 周明|https://www.cnblogs.com/linfeng1142895891/
+17|隋星辰|左一鸣 李晓霞 郭朝霞 贺佳雯 谭雅棋 刘姣|https://www.cnblogs.com/MMLassociation/
+18|楚玉春|楚玉春 吴柚 张善平 宋祥 翟湘立 修士勇 王京禹 高文雅|https://www.cnblogs.com/HappyBest/ 
+19|李硕|李旭梅、赵小琪、孔令旎、韩庆迪、李沐鑫、鹿晓、张贺、徐文柯、战祺、李硕|https://www.cnblogs.com/muzi1129/
+20|陈芳芳|杜玉洁、马广彬、刘怡彤、王秋晨、陈保利、赵鹏飞、佟玉胜、谭雨欣、卢浩|https://www.cnblogs.com/chen122/ 
+21|邱扬|吴恒一 瞿常睿 黄宇渊 刘冲 赵宝林 陈萍 刘畅 李孝天 腾冠龙|https://www.cnblogs.com/Qvver/
+22|杨巧巧|叶敏 陈晓 赵浩如 高爽|https://www.cnblogs.com/WritingGroup/
+23|崔国宾|孙康 王国华 吴闯 高海波 赵志祥|https://www.cnblogs.com/xslwxz/
+
+## 5. 课程记录
 
 2019年9月20日，参加汇报的同学：唐晓涵、王啟杰、刘晓燕、沈世莹、赵政达、李旭
