@@ -32,3 +32,24 @@
 
 
 
+## 5. 阅读扩展材料
+
+下面内容来自王晋东的知乎 ResearchGo 系列文章
+
+- [研究生活第一帖——文献检索与管理](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class1.md)
+
+- [研究生活第二帖——文献阅读](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class2.md)
+
+- [研究生活第三帖——文献调研](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class3.md)
+
+- [研究生活第四帖——文献综述](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class4.md)
+
+- [研究生活第五帖——如何讲论文](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class5.md)
+
+- [研究生活第六帖——专利检索与申请](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class6.md)
+
+- [研究生活第七帖——写论文、做PPT、写文档必备工具](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class7.md)
+
+- [研究生活第八帖——当我们读论文时，我们在读些什么](https://github.com/summitgao/WritingClass/blob/master/files/notefromWJD/class8.md)
+
+  
