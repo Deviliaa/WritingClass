@@ -37,7 +37,9 @@ TexStudio下载地址：[http://www.texstudio.org/](https://link.zhihu.com/?targ
 
 你可以直接复制Excel中的内容粘贴到网站上，所有事情都解决了。网站还提供了一些简单的编辑功能。以我的研究经验来看，足够了。毕竟你不是要做一个超级复杂的表格。除此之外，该网站还支持导出Markdown、html等格式的表格，非常良心！
 
-![img](https://pic3.zhimg.com/80/v2-d883f25ce5b140c26ee50a5faa6ca89d_720w.jpg)Tablesgenerator
+![img](https://pic3.zhimg.com/80/v2-d883f25ce5b140c26ee50a5faa6ca89d_720w.jpg)
+
+Tablesgenerator
 
 Tablesgenerator网站地址：[https://www.tablesgenerator.com](https://link.zhihu.com/?target=https%3A//www.tablesgenerator.com/)
 
@@ -47,7 +49,9 @@ Tablesgenerator网站地址：[https://www.tablesgenerator.com](https://link.zhi
 
 Mathpix就是完成这个任务的神器。你只需要下载安装，然后选中区域进行截图，该软件马上就会为你生成对应的LaTex代码。个人体验这么久，从来，是从来，没出错过！它是跨平台的，还有手机客户端，可以拍照识别。官网上还卖萌地放上了牛顿和爱因斯坦的评语，哈哈！
 
-![img](https://pic3.zhimg.com/80/v2-24cb94987bac421f51ce69d787b6aaec_720w.jpg)Mathpix
+![img](https://pic3.zhimg.com/80/v2-24cb94987bac421f51ce69d787b6aaec_720w.jpg)
+
+Mathpix
 
 Mathpix下载地址：[https://mathpix.com/](https://mathpix.com/)
 
@@ -71,7 +75,9 @@ Overleaf网址：[https://www.overleaf.com/](https://www.overleaf.com/)
 
 如果我们在word和ppt中有书写公式的要求，可以使用AxMath。它支持所见即所得，也支持写LaTex代码转换为公式。在淘宝有卖，作者是一位浙江工业大学的老师，只要几十块就行，比笨重难看的Mathtype好用不要太多！
 
-![img](https://pic4.zhimg.com/80/v2-5bc0562c2612654c5a9acecdd9219495_720w.jpg)Axmath
+![img](https://pic4.zhimg.com/80/v2-5bc0562c2612654c5a9acecdd9219495_720w.jpg)
+
+Axmath
 
 AxMath地址：[http://www.amyxun.com/](https://www.amyxun.com/)
 
