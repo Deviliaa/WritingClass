@@ -61,8 +61,8 @@
 
 三是可以把现有的PDF文件直接进行提取，到Google（需要翻墙）里去匹配它的会议、年份、作者等源信息然后保存在软件里！
 
-这个软件功能太强大，但是如果不配置好的话就会觉得很难用。这里附上牛人写的配置链接以供参考： [Zotero配置向导](https://link.zhihu.com/?target=http%3A//www.yangzhiping.com/tech/zotero1.html)。
+这个软件功能太强大，但是如果不配置好的话就会觉得很难用。这里附上牛人写的配置链接以供参考： [Zotero配置向导](https://www.yangzhiping.com/tech/zotero1.html)。
 
-当然，使用软件全看个人喜好。[维基百科](https://link.zhihu.com/?target=https%3A//www.wikiwand.com/zh/%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6%E6%AF%94%E8%BE%83)里列出了常用的文献管理软件对比，大家可以根据自己需求来选择。
+当然，使用软件全看个人喜好。[维基百科](https://www.wikiwand.com/zh/%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6%E6%AF%94%E8%BE%83)里列出了常用的文献管理软件对比，大家可以根据自己需求来选择。
 
-**补充：如果你经常阅读中文文献，需要到知网下载管理中文的caj文件，你可以用知网的[数字化学习与研究平台](https://link.zhihu.com/?target=http%3A//elearning.cnki.net/)(e-cnki-study)！**
+**补充：如果你经常阅读中文文献，需要到知网下载管理中文的caj文件，你可以用知网的[数字化学习与研究平台](https://elearning.cnki.net/)(e-cnki-study)！**
